@@ -1,0 +1,24 @@
+{
+    "Системний номер ІО": 73668,
+    "Дата завантаження": 20220708,
+    "Дата останніх змін": 20220708,
+    "Локальний номер БД": null,
+    "Full_name": "Кондрашова Ольга Евгеньевна",
+    "Nationality": null,
+    "ITN": null,
+    "Additional_Data": [
+        {
+            "Additional_Data": "{ДІ-4} [2019] Контакты: 74957071763,79100021510, rus-partner3@mail.ru"
+        }
+    ],
+    "DOB": 19831226,
+    "Document": null,
+    "Place_0f_Birth": null,
+    "Lives_At": null,
+    "Relates_To": [
+        {
+            "Type_of_Relation": "Має засіб зв’язку",
+            "Actual_On": 20190101
+        }
+    ]
+}
