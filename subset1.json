@@ -14,7 +14,7 @@
 	"DOB": null, 
 	"Document": [{
 		"Document_Type": "Passport",
-		"серія, номер": "ВС19739"}
+		"Number": "ВС19739"}
 ], 
 "Place_of_Birth": null, 
 "Lives_At":  [{"Actual_Place": "Україна, 65111, Одеська обл., місто Одеса, вул.Паустовського, будинок 31, квартира 40",
